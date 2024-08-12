@@ -11,6 +11,18 @@
   This software was born in 2022, and continues to be developed to this day.
 </p>
 
+<h4>Features</h4>
+  <ul>
+    <li>Economic, inventory and statistical management of the workshop.</li>
+    <li>Calculation of resistive divider, load factor, equivalent resistances, tralation of smd codes, default list of dividers used in pc.</li>
+    <li>List of Post Codes by hardware manufacturer, bios designer, by post card model and list of registered faults.</li>
+    <li>Companion semi-integrated apps for bios edtiting and analysis</li>
+    <li>Direct search in online stores.</li>
+    <li>Dual Library, summary datasheets and help files, tipos and boot sequences.</li>
+    <li>Screen printing catalog Richtek, RichPower, Onsemi, Nexperia, MPS, Panjit, Silergy, etc</li>
+    <li>Direct search on oficial and third-party sites</li>
+  </ul>
+
 </br>
 <div align="center">
   <h4>First ScreenShot and some functions</h4>
