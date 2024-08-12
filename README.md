@@ -24,6 +24,11 @@
     <li>IC equivalents database, search for laptop, desktop, graphics parts.</li>
   </ul>
 
+<div>
+  [ <img src="https://wiki.videolan.org/images/Windows_logo.png" alt="File:Windows logo.png - VideoLAN Wiki" width="20" />
+  <strong> Design for Windows platform</strong> ]
+</div>
+
 </br>
 <div align="center">
   <h4>First ScreenShot and some functions</h4>
