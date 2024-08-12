@@ -25,7 +25,7 @@
   </ul>
 
 <div>
-  [ <img src="https://wiki.videolan.org/images/Windows_logo.png" alt="File:Windows logo.png - VideoLAN Wiki" width="20" />
+  [ <img src="https://wiki.videolan.org/images/Windows_logo.png" alt="Windows logo" width="20" />
   <strong> Design for Windows platform</strong> ]
 </div>
 
