@@ -39,7 +39,7 @@
 </div>
 
 </br></br>
-<a href="https://inorepair.com/descubre-el-poder-del-software-inoel-repara-center-aio-2pro-tu-aliado-definitivo-en-la-reparacion-de-equipos-informaticos/">:point_right: Visit to main collaborating electronic technician</a>
+:point_right:<a href="https://inorepair.com/descubre-el-poder-del-software-inoel-repara-center-aio-2pro-tu-aliado-definitivo-en-la-reparacion-de-equipos-informaticos/"> Visit to main collaborating electronic technician</a>
 
 
 <h3>Download User Guide :point_down: </h3>
