@@ -4,7 +4,7 @@
   Within my work experience, I dedicated myself for more than 5 years to the logical and electrical repair of computer equipment, and other electronic equipment.
   Detecting impediments when managing information, deduction and analysis of failures and spare parts.
  
-  I jointly belong to a community of computer repairers, where everyone suffered from the same evil. Initially this project was intended for my personal consumption, but little by little it began to be requested by the community.
+  I jointly belong to a community of computer repairers, where everyone suffered from the same problem. Initially this project was intended for my personal consumption, but little by little it began to be requested by the community.
   
   Currently it has 45 users from 8 countries, with 7 active collaborators, the most experienced in this matter, together with my own experience.
   
