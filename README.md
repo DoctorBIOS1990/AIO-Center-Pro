@@ -38,14 +38,13 @@
   <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Pin%20Comparator.jpg" width="150"/> 
   <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Where%20is%20it%20Scrap.jpg" width="150"/> 
   <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Collaborators%20Technisians.jpg" width="150"/>
+
+  :point_right:<a href="https://inorepair.com/descubre-el-poder-del-software-inoel-repara-center-aio-2pro-tu-aliado-definitivo-en-la-reparacion-de-equipos-informaticos/"> Visit to main collaborating electronic technician</a>
+
 </div>
-
 </br></br>
-:point_right:<a href="https://inorepair.com/descubre-el-poder-del-software-inoel-repara-center-aio-2pro-tu-aliado-definitivo-en-la-reparacion-de-equipos-informaticos/"> Visit to main collaborating electronic technician</a>
 
-
-<h3>Download User Guide :point_down: </h3>
-
+# ⏬ Download User Guide
 <a href="https://drive.google.com/file/d/1y7ta83Cg4fj4AL_S_3m-qvOs2tgpjV8j/view?usp=sharing">
   <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/User%20Guide.jpg"/> 
 </a>
