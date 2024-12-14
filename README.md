@@ -18,7 +18,7 @@
     <li>List of Post Codes by hardware manufacturer, bios designer, by post card model and list of registered faults.</li>
     <li>Companion semi-integrated apps for bios edtiting and analysis</li>
     <li>Direct search in online stores.</li>
-    <li>Dual Library, summary datasheets and help files, tipos and boot sequences.</li>
+    <li>Dual Library, summary datasheets and help files, guides, tips and boot sequences.</li>
     <li>Screen printing catalog Richtek, RichPower, Onsemi, Nexperia, MPS, Panjit, Silergy, etc</li>
     <li>Direct search on oficial and third-party sites</li>
     <li>IC equivalents database, search for laptop, desktop, graphics parts.</li>
