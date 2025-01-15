@@ -26,7 +26,7 @@
 
 <div>
   [ <img src="https://wiki.videolan.org/images/Windows_logo.png" alt="Windows logo" width="20" />
-  <strong> Design for Windows platform</strong> ]
+  <strong> Designed for Windows</strong> ] <a href="https://doctorbios1990.github.io/aio-center">Website</a>
 </div>
 
 </br>
